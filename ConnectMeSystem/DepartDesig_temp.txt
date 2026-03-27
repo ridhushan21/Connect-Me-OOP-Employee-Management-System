@@ -1,0 +1,13 @@
+Department / D001 / Operations
+Department / D002 / Quality Assurance
+Department / D003 / Training
+Department / D004 / Human Resources
+Department / D005 / Finance
+Designation / DS001 / Supervisor
+Designation / DS002 / Team Captain
+Designation / DS003 / Quality Manager
+Designation / DS004 / Quality Monitor
+Designation / DS005 / Training Manager
+Designation / DS006 / HR Manager
+Designation / DS007 / Finance Officer
+Department / 200 / Training
